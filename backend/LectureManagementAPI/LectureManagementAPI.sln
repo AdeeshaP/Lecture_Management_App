@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LectureManagementAPI", "LectureManagementAPI.csproj", "{CC37822A-5C04-45CB-829F-4387FBCE2C75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC37822A-5C04-45CB-829F-4387FBCE2C75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC37822A-5C04-45CB-829F-4387FBCE2C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC37822A-5C04-45CB-829F-4387FBCE2C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC37822A-5C04-45CB-829F-4387FBCE2C75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3ECC4E6-BBD7-43EB-8176-0D0C11258110}
+	EndGlobalSection
+EndGlobal
